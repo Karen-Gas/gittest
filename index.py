@@ -4,3 +4,5 @@ func()
 print('hello')
 #hello
 print("hello world")
+
+#comment
